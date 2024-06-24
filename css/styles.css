@@ -44,5 +44,9 @@
 }
 
 .sl-wrapper {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+:root .simple-lightbox .sl-counter {
+  color: beige;
 }
